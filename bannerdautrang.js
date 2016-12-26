@@ -116,8 +116,8 @@ $(window).load(function() {
 			var divpopup = document.createElement("div");
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
-			$("#myModal").html("<a href='http://bit.ly/29bYOUf' target='_blank'><img src='https://lh3.googleusercontent.com/-HLQ6UcxKMKU/WGEIfBvOweI/AAAAAAAABvU/W7jXW6cdm5w_0ueZvWiYSUuC7RKwTbeZwCJoC/w373-h177-p-rw/hotline-sonzin.jpg' width='500px'/><br/>Tổng đại lý sơn uy tín tại tphcm</a>. Sonzin.com. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$( "body" ).append(divpopup);
+			$("#myModal").html("<a href='http://bit.ly/29bYOUf' target='_blank'><img src='https://lh3.googleusercontent.com/-HLQ6UcxKMKU/WGEIfBvOweI/AAAAAAAABvU/W7jXW6cdm5w_0ueZvWiYSUuC7RKwTbeZwCJoC/w373-h177-p-rw/hotline-sonzin.jpg' width='500px'/><br/>Tổng đại lý sơn uy tín tại tphcm</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
