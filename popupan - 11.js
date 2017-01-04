@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://sonzin.com/';
+	var url_popup = 'https://sonzin.com/son-dulux/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
