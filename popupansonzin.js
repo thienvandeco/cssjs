@@ -2,7 +2,7 @@
 	var url_popup = 'https://sonzin.com';
 
       //<![CDATA[
-	  // var url_ppp = 'https://sonzin.com/bot-tret-tuong/';
+	  // var url_ppp = 'http://bit.ly/2ib3lLo';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
