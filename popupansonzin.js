@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://sonzin.com';
+	var url_popup = 'http://bit.ly/2ib3lLo';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/2ib3lLo';
