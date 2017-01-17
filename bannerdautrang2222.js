@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://sonzin.com/son-jotun/ target='_blank'><img src='https://sonzin.com/wp-content/uploads/2016/08/sonzin.png' width='500px'/><br/>HOTLINE: 0913 888 277. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://sonzin.com/son-dulux/ target='_blank'><img src='https://sonzin.com/wp-content/uploads/2016/08/sonzin.png' width='500px'/><br/>HOTLINE: 0913 888 277. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
