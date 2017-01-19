@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://bit.ly/2irjMle';
+	var url_popup = 'https://sonzin.com/son-jotun/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/2irjMle';
+	  // var url_ppp = 'https://sonzin.com/son-jotun/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
